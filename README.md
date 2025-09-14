@@ -1,5 +1,4 @@
-<img width="480" height="480" alt="clippy" src="https://github.com/user-attachments/assets/23876fe7-ea8c-4e5c-92e3-3fb0c643f981" />
-
+<img src="https://github.com/user-attachments/assets/23876fe7-ea8c-4e5c-92e3-3fb0c643f981" alt="clippy" width="150">
 
 ## About Me
 I am Anakama, a guy existing in the universe who makes rom hacks, batch scripts, speedruns, collections, fan games, sprites, and mods.
