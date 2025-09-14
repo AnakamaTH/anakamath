@@ -1,5 +1,3 @@
-!https://cdn.geekwire.com/wp-content/uploads/2011/04/clippy.jpg
-
 ## About Me
 I am Anakama, a guy existing in the universe who makes rom hacks, batch scripts, speedruns, collections, fan games, sprites, and mods.
 
