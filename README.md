@@ -2,7 +2,8 @@
 
 ## About Me
 I am Anakama, a guy existing in the universe who makes rom hacks, batch scripts, speedruns, collections, fan games, sprites, and mods.
-
+Also Github stuff I guess
+#
 ## Socials
 - [Speedrun.com](https://speedrun.com/users/Anakama)
 - [CurseForge](https://www.curseforge.com/members/anakamathehedgehog/)
