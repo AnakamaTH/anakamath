@@ -1,3 +1,5 @@
+![clippy](https://github.com/user-attachments/assets/2c924736-f92b-461c-af67-bdde467cceb7)
+
 ## About Me
 I am Anakama, a guy existing in the universe who makes rom hacks, batch scripts, speedruns, collections, fan games, sprites, and mods.
 
