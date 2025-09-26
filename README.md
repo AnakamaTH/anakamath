@@ -8,5 +8,6 @@ Also Github stuff
 
 
 BlueSky: anakamath.github.io
+
 Discord: AnakamaExist (FRQ: Mutual Servers)
 
