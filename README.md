@@ -8,5 +8,5 @@ I am Anakama, a guy who makes rom hacks, batch scripts, speedruns, collections, 
 
 BlueSky: anakamath.github.io
 
-Discord: AnakamaExist (FRQ: Mutual Servers)
+Discord: AnakamaExist (FR: Mutual Servers)
 
