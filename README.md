@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/23876fe7-ea8c-4e5c-92e3-3fb0c643f981" alt="clippy" width="150">
-
 ## About Me
 I am Anakama, a guy who makes rom hacks, batch scripts, speedruns, collections, fan games, sprites, and mods.
 ## Socials
@@ -8,5 +6,5 @@ I am Anakama, a guy who makes rom hacks, batch scripts, speedruns, collections, 
 
 BlueSky: anakamath.github.io
 
-Discord: AnakamaExist (FR: Mutual Servers)
+Discord: AnakamaExist
 
