@@ -6,4 +6,4 @@ I am Anakama, a guy who makes rom hacks, batch scripts, speedruns, collections, 
 
 BlueSky: anakamath.github.io
 
-<a href="https://emoji.gg/emoji/asexual_pride_flag"><img src="https://cdn3.emoji.gg/emojis/asexual_pride_flag.png" width="64px" height="64px" alt="asexual_pride_flag"></a>
+<a <img src="https://cdn3.emoji.gg/emojis/asexual_pride_flag.png" width="64px" height="64px" alt="asexual_pride_flag"></a>
