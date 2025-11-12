@@ -5,5 +5,3 @@ I am Anakama, a guy who makes rom hacks, batch scripts, speedruns, collections, 
 
 
 BlueSky: anakamath.github.io
-
-<img src="https://cdn3.emoji.gg/emojis/asexual_pride_flag.png" width="32px" height="32px" alt="ace_flag"></a>
