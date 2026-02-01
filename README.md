@@ -7,5 +7,5 @@ Most such repositories are private, I've also deleted repositories of cancelled 
 
 **[More detailed about me.](https://anakama.xyz)**
 
-![](https://raw.githubusercontent.com/anakamath/anakamath/master/img/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anakamath/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
 
