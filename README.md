@@ -14,4 +14,5 @@ I mostly code in: batch, HTML and CSS. (The languages stats aren't too accurate.
 ![](https://raw.githubusercontent.com/anakamath/stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [Click the button on my site!](https://anakama.xyz)
+
 ![Click Count](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclick-counter.anakama.workers.dev%2F&query=$.count&label=Click%20Count&color=brightgreen)
