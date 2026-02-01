@@ -3,6 +3,9 @@ I am Anakama, I make, batch scripts, speedruns, games and mods.
 
 I mainly use Github for my coding projects and websites which are mostly private.
 
+
+I don't do Sonic stuff anymore and those repositories are private.
+
 I mostly code in: batch, HTML and CSS. (The languages stats aren't too accurate.)
 
 **[More detailed about me.](https://anakama.xyz)**
