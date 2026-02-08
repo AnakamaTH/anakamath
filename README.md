@@ -3,7 +3,7 @@ I am Anakama, I make, batch scripts, speedruns, games and mods.
 
 I mainly use Github for my coding projects and websites which are mostly private.
 
-I mostly code in: batch, HTML and CSS. (The language stats aren't too up-to-date.)
+I mostly code in: batch, HTML and CSS. (I *used* to code in assembly, not anymore.)
 
 **[More detailed about me.](https://anakama.xyz)**
 
