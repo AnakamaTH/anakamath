@@ -5,7 +5,7 @@ I mainly use Github for my coding projects and websites which are mostly private
 
 I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not anymore.)
 
-![](/assets/HTML5.svg) ![](/assets/css.svg) ![](/assets/batch.svg)
+![](/assets/HTML5.svg) ![](/assets/css3.svg) ![](/assets/batch.svg)
 
 **[More detailed about me.](https://anakama.xyz)**
 
