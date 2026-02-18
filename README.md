@@ -10,4 +10,4 @@ I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not 
 ![](https://raw.githubusercontent.com/anakamath/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/anakamath/stats/master/generated/languages.svg#gh-dark-mode-only)
 
-![contact](https://img.shields.io/badge/contact%40anakama.xyz---?style=flat-square&logo=protonmail&label=Mail%3A&link=mailto%3Acontact%40anakama.xyz)
+<p align="center"><img src="https://img.shields.io/badge/contact%40anakama.xyz---?style=flat-square&logo=protonmail&label=Mail%3A&link=mailto%3Acontact%40anakama.xyz" alt="contact@anakama.xyz"></p>
