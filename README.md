@@ -5,9 +5,9 @@ I mainly use Github for my coding projects and websites which are mostly private
 
 I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not anymore.)
 
-![contact](https://img.shields.io/badge/contact%40anakama.xyz---?style=flat-square&logo=protonmail&label=Mail%3A&link=mailto%3Acontact%40anakama.xyz)
-
 **[More detailed about me.](https://anakama.xyz)**
 
 ![](https://raw.githubusercontent.com/anakamath/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/anakamath/stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![contact](https://img.shields.io/badge/contact%40anakama.xyz---?style=flat-square&logo=protonmail&label=Mail%3A&link=mailto%3Acontact%40anakama.xyz)
