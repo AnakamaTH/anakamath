@@ -1,4 +1,4 @@
-## Hello there!
+
 I am Anakama, I make, batch scripts, speedruns and mods. 
 
 I mainly use Github for my coding projects and websites which are mostly private.
