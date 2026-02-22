@@ -9,5 +9,4 @@ I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not 
 ***
 ![](https://raw.githubusercontent.com/anakamath/statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/anakamath/statistics/master/generated/languages.svg#gh-dark-mode-only)
-
 (<sub>Statistics are kind of buggy and misses a few hundred commits and thousands of lines of code.</sub>)
