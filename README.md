@@ -5,7 +5,7 @@ I mainly use Github for my coding projects and websites which are mostly private
 
 I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not anymore.)
 
-<sub>Statistics are kind of buggy and misses a few hundred commits and a hundred thousand of lines of code.</sub>
+<sub>Statistics are kind of buggy and misses a few hundred commits and hundred thousand lines of code.</sub>
 
 **[More detailed about me.](https://anakama.xyz)**
 ***
