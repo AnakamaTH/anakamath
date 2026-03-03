@@ -7,6 +7,6 @@ I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not 
 
 **[More detailed about me.](https://anakama.xyz)**
 ***
-![](https://raw.githubusercontent.com/anakamath/statistics/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/anakamath/statistics/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anakamath/statistics/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/anakamath/statistics/master/generated/languages.svg)
 
