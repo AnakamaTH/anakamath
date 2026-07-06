@@ -1,7 +1,7 @@
 <h1 align="center">Greetings.</h1>
 I am Anakama. I make, batch scripts, speedruns and mods.
 
-I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not anymore.)
+I mostly code in: batch and HTML. (I *used* to code a bit in assembly, not anymore.)
 
 **[More detailed about me.](https://anakama.xyz)**
 ***
